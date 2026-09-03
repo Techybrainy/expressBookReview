@@ -1,0 +1,5 @@
+]633;E;echo "Command:";1b43a067-f1e7-499d-9d2d-85d95d0f5301]633;CCommand:
+curl -s -X POST "http://localhost:5000/register" -H "Content-Type: application/json" -d '{"username":"dhruvtest","password":"password123"}'
+
+Terminal output:
+{"message":"User successfully registered. Now you can login"}
