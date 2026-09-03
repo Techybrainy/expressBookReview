@@ -1,0 +1,5 @@
+]633;E;echo "Command:";5b59c6d4-758a-435e-a366-72f60bd6d24e]633;CCommand:
+curl -s http://localhost:5000/isbn/1
+
+Terminal output:
+{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}
