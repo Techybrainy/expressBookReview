@@ -1,0 +1,5 @@
+]633;E;echo "Command:";b6b5730e-8eb7-41dd-9d09-f8e8374052a4]633;CCommand:
+curl -s "http://localhost:5000/title/Things%20Fall%20Apart"
+
+Terminal output:
+[{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}]
