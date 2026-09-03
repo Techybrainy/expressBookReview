@@ -1,0 +1,5 @@
+]633;E;echo "Command:";abe9217d-dade-4af1-a2b5-de375e4f33e9]633;CCommand:
+curl -s "http://localhost:5000/review/1"
+
+Terminal output:
+{}
